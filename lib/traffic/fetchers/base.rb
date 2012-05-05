@@ -6,8 +6,7 @@ module Traffic
 
       attr_reader :data, :message
 
-      def initialize(settings)
-        @settings = settings
+      def initialize
         @success = false
         @message = ""
       end
