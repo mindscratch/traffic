@@ -6,8 +6,15 @@ module Traffic
     # and counts the number of incidents based on different severity.
     class BingTrafficIncidents < Base
 
-      #x = Traffic::Fetchers::BingTraffic.count_incidents '39.202,-76.782,39.461,-76.467', 'KEY GOES HERE'
-      #url_config = {/bounding_box/ => bounding_box, /severities/ => severities, /api_key/ => api_key}
+      # fetcher = Traffic::Fetchers::BingTrafficIncidents.new(
+      #   /bounding_box/ => '39.202,-76.782,39.461,-76.467',
+      #   /api_key/ => '',
+      #   /severities/ => '4'
+      # )
+      #
+      # fetcher.fetch
+      # fetcher.data
+
 
       BASE_URL_TEMPLATE = 'http://dev.virtualearth.net/REST/v1/Traffic/Incidents/bounding_box?s=severities&key=api_key'
 
