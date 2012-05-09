@@ -1,0 +1,184 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://dev.virtualearth.net/REST/v1/Traffic/Incidents/39.202,-76.782,39.461,-76.467?key=<API
+      KEY>&s=1,2,3,4
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bWF4LWFnZT0yNDA=
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "U2VydmVy":
+      - !binary |-
+        TWljcm9zb2Z0LUlJUy83LjU=
+      !binary "WC1CbS1UcmFjZWlk":
+      - !binary |-
+        OTViOGE1YTU4YjU5NGE0ZGE4MTM5MmMyZGVlM2IxMDg=
+      !binary "WC1CbS1TcnY=":
+      - !binary |-
+        QkwyTTAwMTMwNQ==
+      !binary "WC1Ncy1CbS1Xcy1JbmZv":
+      - !binary |-
+        MA==
+      !binary "WC1Bc3BuZXQtVmVyc2lvbg==":
+      - !binary |-
+        NC4wLjMwMzE5
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        QVNQLk5FVA==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAwOSBNYXkgMjAxMiAwMToyMzoyMiBHTVQ=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJhdXRoZW50aWNhdGlvblJlc3VsdENvZGUiOiJWYWxpZENyZWRlbnRpYWxz
+        IiwiYnJhbmRMb2dvVXJpIjoiaHR0cDpcL1wvZGV2LnZpcnR1YWxlYXJ0aC5u
+        ZXRcL0JyYW5kaW5nXC9sb2dvX3Bvd2VyZWRfYnkucG5nIiwiY29weXJpZ2h0
+        IjoiQ29weXJpZ2h0IMKpIDIwMTIgTWljcm9zb2Z0IGFuZCBpdHMgc3VwcGxp
+        ZXJzLiBBbGwgcmlnaHRzIHJlc2VydmVkLiBUaGlzIEFQSSBjYW5ub3QgYmUg
+        YWNjZXNzZWQgYW5kIHRoZSBjb250ZW50IGFuZCBhbnkgcmVzdWx0cyBtYXkg
+        bm90IGJlIHVzZWQsIHJlcHJvZHVjZWQgb3IgdHJhbnNtaXR0ZWQgaW4gYW55
+        IG1hbm5lciB3aXRob3V0IGV4cHJlc3Mgd3JpdHRlbiBwZXJtaXNzaW9uIGZy
+        b20gTWljcm9zb2Z0IENvcnBvcmF0aW9uLiIsInJlc291cmNlU2V0cyI6W3si
+        ZXN0aW1hdGVkVG90YWwiOjQsInJlc291cmNlcyI6W3siX190eXBlIjoiVHJh
+        ZmZpY0luY2lkZW50Omh0dHA6XC9cL3NjaGVtYXMubWljcm9zb2Z0LmNvbVwv
+        c2VhcmNoXC9sb2NhbFwvd3NcL3Jlc3RcL3YxIiwicG9pbnQiOnsidHlwZSI6
+        IlBvaW50IiwiY29vcmRpbmF0ZXMiOlszOS4yNjA5OCwtNzYuNzAzOTZdfSwi
+        Y29uZ2VzdGlvbiI6IiIsImRlc2NyaXB0aW9uIjoiUmFtcCB0byBXQiBSVC0z
+        NzIgV2lsa2VucyBBdiAoIzEyQykgaXMgY2xvc2VkIGR1ZSB0byBjb25zdHJ1
+        Y3Rpb24iLCJkZXRvdXIiOiJJbm5lciBMb29wIHRyYWZmaWMgIHVzZXMgRXhp
+        dCAxMiBCIC0gYXQgZW5kIG9mIHJhbXAgbWFrZSBsZWZ0IGZvciBXQiBXaWxr
+        ZW5zIEF2ZSAtIG1ha2UgcmlnaHQgZm9yIEVCIFdpbGtlbnMgQXZlLiIsImVu
+        ZCI6IlwvRGF0ZSgxMzQ4MTUxNDAwMDAwKVwvIiwiaW5jaWRlbnRJZCI6Mjkz
+        NDk2NTUwLCJsYW5lIjoiIiwibGFzdE1vZGlmaWVkIjoiXC9EYXRlKDEzMzUz
+        MjIzMDUyMDcpXC8iLCJyb2FkQ2xvc2VkIjp0cnVlLCJzZXZlcml0eSI6Mywi
+        c3RhcnQiOiJcL0RhdGUoMTMzMjg0NjAwMDAwMClcLyIsInR5cGUiOjksInZl
+        cmlmaWVkIjp0cnVlfSx7Il9fdHlwZSI6IlRyYWZmaWNJbmNpZGVudDpodHRw
+        OlwvXC9zY2hlbWFzLm1pY3Jvc29mdC5jb21cL3NlYXJjaFwvbG9jYWxcL3dz
+        XC9yZXN0XC92MSIsInBvaW50Ijp7InR5cGUiOiJQb2ludCIsImNvb3JkaW5h
+        dGVzIjpbMzkuMjgxMTQsLTc2LjU1MDQxXX0sImNvbmdlc3Rpb24iOiIiLCJk
+        ZXNjcmlwdGlvbiI6Ik8nRG9ubmVsbCBTdCAoIzU3KSBvZmYgcmFtcCBpcyAg
+        c2NoZWR1bGVkIHRvIGJlIGNsb3NlZCBmb3IgY29uc3RydWN0aW9uIiwiZGV0
+        b3VyIjoiZm9sbG93IHBvc3RlZCBkZXRvdXJzIC0iLCJlbmQiOiJcL0RhdGUo
+        MTMzNjU1NDAwMDAwMClcLyIsImluY2lkZW50SWQiOjMwNDkwNzEzMywibGFu
+        ZSI6IiIsImxhc3RNb2RpZmllZCI6IlwvRGF0ZSgxMzM2NTI1MjM3MTQ3KVwv
+        Iiwicm9hZENsb3NlZCI6dHJ1ZSwic2V2ZXJpdHkiOjMsInN0YXJ0IjoiXC9E
+        YXRlKDEzMzY1MjUyMDAwMDApXC8iLCJ0eXBlIjo5LCJ2ZXJpZmllZCI6dHJ1
+        ZX0seyJfX3R5cGUiOiJUcmFmZmljSW5jaWRlbnQ6aHR0cDpcL1wvc2NoZW1h
+        cy5taWNyb3NvZnQuY29tXC9zZWFyY2hcL2xvY2FsXC93c1wvcmVzdFwvdjEi
+        LCJwb2ludCI6eyJ0eXBlIjoiUG9pbnQiLCJjb29yZGluYXRlcyI6WzM5LjMx
+        NDM0LC03Ni41NzMxMl19LCJjb25nZXN0aW9uIjoiIiwiZGVzY3JpcHRpb24i
+        OiJTaW5jbGFpciBMbiBpcyBjbG9zZWQgaW4gYm90aCBkaXJlY3Rpb25zIGF0
+        IEVkaXNvbiBId3kgZm9yIHJlcGFpciBvZiB0aGUgU2luY2xhaXIgTG4gQnJp
+        ZGdlIChvdmVyIENTWCB0cmFpbiB0cmFja3MpIC0gY29uc3RydWN0aW9uIiwi
+        ZGV0b3VyIjoiRUIgU2luY2xhaXIgTG4gdG8gTkIgRWRpc29uIEh3eSB0byBO
+        QiBFcmRtYW4gQXYgdG8gQmVsYWlyIFJkIGJhY2sgdG8gU2luY2xhaXIgTG4u
+        IHx8IFdCIFNpbmNsYWlyIExuIHRvIFNCIEVkaXNvbiBId3ksIEVCIEZlZGVy
+        YWwgU3QsIE5CIEVyZG1hbiBBdmUgYmFjayB0byBTaW5jbGFpciBMbi4gfHwg
+        ICIsImVuZCI6IlwvRGF0ZSgxMzk5NTcyMDAwMDAwKVwvIiwiaW5jaWRlbnRJ
+        ZCI6MzA0NzcyMDk5LCJsYW5lIjoiIiwibGFzdE1vZGlmaWVkIjoiXC9EYXRl
+        KDEzMzY0NjY0NDA1MDApXC8iLCJyb2FkQ2xvc2VkIjp0cnVlLCJzZXZlcml0
+        eSI6Mywic3RhcnQiOiJcL0RhdGUoMTMzNjQ2NDAwMDAwMClcLyIsInR5cGUi
+        OjksInZlcmlmaWVkIjp0cnVlfSx7Il9fdHlwZSI6IlRyYWZmaWNJbmNpZGVu
+        dDpodHRwOlwvXC9zY2hlbWFzLm1pY3Jvc29mdC5jb21cL3NlYXJjaFwvbG9j
+        YWxcL3dzXC9yZXN0XC92MSIsInBvaW50Ijp7InR5cGUiOiJQb2ludCIsImNv
+        b3JkaW5hdGVzIjpbMzkuMzE1NjEsLTc2LjYyODRdfSwiY29uZ2VzdGlvbiI6
+        IiIsImRlc2NyaXB0aW9uIjoiaW4gYm90aCBkaXJlY3Rpb25zIGF0IDI4dGgg
+        U3QgKCM3KSAtIGVtZXJnZW5jeSByZXBhaXIgd29yayIsImRldG91ciI6IiIs
+        ImVuZCI6IlwvRGF0ZSgxMzM5MDc3NjAwMDAwKVwvIiwiaW5jaWRlbnRJZCI6
+        MzAzMjgwMTM0LCJsYW5lIjoiTGVmdCBsYW5lIGJsb2NrZWQiLCJsYXN0TW9k
+        aWZpZWQiOiJcL0RhdGUoMTMzNjI5MTIyNjYzMClcLyIsInJvYWRDbG9zZWQi
+        OmZhbHNlLCJzZXZlcml0eSI6Miwic3RhcnQiOiJcL0RhdGUoMTMzNDM1ODAw
+        MDAwMClcLyIsInR5cGUiOjksInZlcmlmaWVkIjp0cnVlfV19XSwic3RhdHVz
+        Q29kZSI6MjAwLCJzdGF0dXNEZXNjcmlwdGlvbiI6Ik9LIiwidHJhY2VJZCI6
+        Ijk1YjhhNWE1OGI1OTRhNGRhODEzOTJjMmRlZTNiMTA4fEJMMk0wMDEzMDV8
+        MDIuMDAuMTI3LjEwMHwifQ==
+    http_version: 
+  recorded_at: Wed, 09 May 2012 01:23:27 GMT
+- request:
+    method: get
+    uri: http://dev.virtualearth.net/REST/v1/Traffic/Incidents/39.202,-76.782,39.461,-76.467?key=&s=1,2,3,4
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 401
+      message: !binary |-
+        VW5hdXRob3JpemVk
+    headers:
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "U2VydmVy":
+      - !binary |-
+        TWljcm9zb2Z0LUlJUy83LjU=
+      !binary "WC1CbS1UcmFjZWlk":
+      - !binary |-
+        Y2MwMjA0YjVhYWE0NGVjM2E4OTE0M2YyZDYwN2QxZTg=
+      !binary "WC1CbS1TcnY=":
+      - !binary |-
+        QkwyTTAwMjMwNg==
+      !binary "WC1Ncy1CbS1Xcy1JbmZv":
+      - !binary |-
+        MA==
+      !binary "WC1Bc3BuZXQtVmVyc2lvbg==":
+      - !binary |-
+        NC4wLjMwMzE5
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        QVNQLk5FVA==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAwOSBNYXkgMjAxMiAwMToyNDowOSBHTVQ=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJhdXRoZW50aWNhdGlvblJlc3VsdENvZGUiOiJOb0NyZWRlbnRpYWxzIiwi
+        YnJhbmRMb2dvVXJpIjoiaHR0cDpcL1wvZGV2LnZpcnR1YWxlYXJ0aC5uZXRc
+        L0JyYW5kaW5nXC9sb2dvX3Bvd2VyZWRfYnkucG5nIiwiY29weXJpZ2h0Ijoi
+        Q29weXJpZ2h0IMKpIDIwMTIgTWljcm9zb2Z0IGFuZCBpdHMgc3VwcGxpZXJz
+        LiBBbGwgcmlnaHRzIHJlc2VydmVkLiBUaGlzIEFQSSBjYW5ub3QgYmUgYWNj
+        ZXNzZWQgYW5kIHRoZSBjb250ZW50IGFuZCBhbnkgcmVzdWx0cyBtYXkgbm90
+        IGJlIHVzZWQsIHJlcHJvZHVjZWQgb3IgdHJhbnNtaXR0ZWQgaW4gYW55IG1h
+        bm5lciB3aXRob3V0IGV4cHJlc3Mgd3JpdHRlbiBwZXJtaXNzaW9uIGZyb20g
+        TWljcm9zb2Z0IENvcnBvcmF0aW9uLiIsImVycm9yRGV0YWlscyI6WyJBY2Nl
+        c3Mgd2FzIGRlbmllZC4gWW91IG1heSBoYXZlIGVudGVyZWQgeW91ciBjcmVk
+        ZW50aWFscyBpbmNvcnJlY3RseSwgb3IgeW91IG1pZ2h0IG5vdCBoYXZlIGFj
+        Y2VzcyB0byB0aGUgcmVxdWVzdGVkIHJlc291cmNlIG9yIG9wZXJhdGlvbi4i
+        XSwicmVzb3VyY2VTZXRzIjpbXSwic3RhdHVzQ29kZSI6NDAxLCJzdGF0dXNE
+        ZXNjcmlwdGlvbiI6IlVuYXV0aG9yaXplZCIsInRyYWNlSWQiOiJjYzAyMDRi
+        NWFhYTQ0ZWMzYTg5MTQzZjJkNjA3ZDFlOHxCTDJNMDAyMzA2fDAyLjAwLjEy
+        Ny4xMDB8In0=
+    http_version: 
+  recorded_at: Wed, 09 May 2012 01:24:15 GMT
+recorded_with: VCR 2.1.1
