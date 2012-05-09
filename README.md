@@ -1,4 +1,4 @@
-traffic
+traffic [![Build Status](https://secure.travis-ci.org/mindscratch/traffic.png)](http://travis-ci.org/mindscratch/traffic)
 =======
 
 Count traffic incidents for a given area.
